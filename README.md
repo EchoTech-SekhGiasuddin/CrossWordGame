@@ -1,5 +1,5 @@
-# Calculaor
+# Cross Word Game
 <br>
 Author : Sekh Giasuddin
 <br>
-This is a python script that can work like a calculator
+This is a python script its like a cross word game 
